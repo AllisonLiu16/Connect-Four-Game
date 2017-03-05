@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Connect4</string>
+    <string name="title_activity_test">test</string>
+    <string name="title_activity_gamemain">GamemainActivity</string>
+</resources>
